@@ -7,11 +7,17 @@ This is a stock analysis model for Airbnb, which utilizes historical stock data 
 The dataset used in this analysis contains the following columns:
 
 Date: Date of Listing (YYYY-MM-DD)
+
 Open: Price when the market opens
+
 High: Highest recorded price for the day
+
 Low: Lowest recorded price for the day
+
 Close: Price when the market closes
+
 Adj Close: Modified closing price based on corporate actions
+
 Volume: Amount of stocks sold in a day
 
 You can find the dataset at: https://www.kaggle.com/datasets/whenamancodes/airbnb-inc-stock-market-analysis
