@@ -1,4 +1,4 @@
-# CodeClause_stock_analysis
+# Stock Analysis Model - Airbnb
 
 This stock analysis model for Airbnb utilizes historical stock data to provide various insights and analyses on the company's stock performance. The model includes calculations for daily returns, moving averages, trading signals, cumulative returns, relative strength analysis, breakout analysis, and market sentiment analysis.
 
